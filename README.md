@@ -10,6 +10,8 @@ by Ivan Piskunov, Extension pack edition, version 1.2, Self-published, August 20
 The book is a collection of various practical materials, different tips, hacks, recommendations and real code examples around cloud security, application security (AppSec), DevSecOps frequent issues, prepared for personal use and distribution among security engineers.
 All materials were collected from official online and offline sources - vendor documentation, expert's books, professional forums and communities, open GitHub repositories.
 
+https://github.com/user-attachments/assets/06484a5d-525b-454c-9574-b01d4c427d00
+
 ## Note from the author
 “DevSecOps Notes Box” (Extraction pack), e-book by Ivan Piskunov © 2025 Self-published. The USA
 The book is published in two editions – “Extraction pack” and “Common version”. 
