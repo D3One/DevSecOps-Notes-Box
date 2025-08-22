@@ -1,7 +1,7 @@
-# DevSecOps-Notes-Box
+# DevSecOps Notes Box, e-book (pdf)
 
-__**Secure DevOps, cloud security, applications security Issues, tips and tricks, advices, lifehack and samples of code
-by Ivan Piskunov, Extension pack edition, version 1.2, Self-published, August 2025, the USA__**
+__ **Secure DevOps, cloud security, applications security Issues, tips and tricks, advices, lifehack and samples of code
+by Ivan Piskunov, Extension pack edition, version 1.2, Self-published, August 2025, the USA** __
 
 ## Introduction
 The book is a collection of various practical materials, different tips, hacks, recommendations and real code examples around cloud security, application security (AppSec), DevSecOps frequent issues, prepared for personal use and distribution among security engineers.
