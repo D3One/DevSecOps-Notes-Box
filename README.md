@@ -24,7 +24,7 @@ Also, you can follow me in next networks:
 •	LinkedIn
 
 <p align="center">
-    <img src=" ">
+    <img src="https://github.com/D3One/DevSecOps-Notes-Box/blob/main/Main_Logo.png">
 
 ## Disclaimer
 The book created for educational purposes and is not affiliated with official company(s) or other author(s).
