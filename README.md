@@ -12,6 +12,20 @@ All materials were collected from official online and offline sources - vendor d
 
 https://github.com/user-attachments/assets/06484a5d-525b-454c-9574-b01d4c427d00
 
+## What's inside?
+This repository is your cheat sheet, playbook, and reference guide all in one. Here you will find:
+
+- Ready-made recipes: Commands, code examples, configurations for Terraform, Kubernetes, Docker, and CI/CD pipelines.
+- Tools: Collections of utilities for SAST, DAST, SCA, cloud auditing, and pentesting with examples of their use.
+- Strategies: Methods and practices for implementing security at all stages of the development lifecycle (Secure SDLC).
+- Concentrated experience: A synthesis of materials from Black Hat/DefCon presentations, OWASP guides, and my own research, reworked into a practical form.
+
+## Who is it for?
+- For novice engineers: To quickly navigate the world of DevSecOps and not drown in a sea of scattered information.
+- For senior specialists and architects: To find a ready-made solution, refresh your approaches, or get inspired by new ideas for building secure systems.
+- For anyone who stands between Development and Security and whose goal is to make a product not only functional but also reliable.
+There is no “fluff” here — only a concentrate of practical usefulness. Use it, add to it, and contribute!
+
 ## Note from the author
 “DevSecOps Notes Box” (Extraction pack), e-book by Ivan Piskunov © 2025 Self-published. The USA
 The book is published in two editions – “Extraction pack” and “Common version”. 
